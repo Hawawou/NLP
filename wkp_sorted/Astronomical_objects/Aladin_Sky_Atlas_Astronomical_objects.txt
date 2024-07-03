@@ -1,0 +1,17 @@
+Aladin is an interactive software sky atlas, created in France. It's allowing the user to visualize digitized astronomical images, superimpose entries from astronomical catalogues or databases, and interactively access related data and information from the SIMBAD database, the VizieR service and other archives for all known sources in the field.Created in 1999, Aladin has become a widely used VO portal capable of addressing challenges such as locating data of interest, accessing and exploring distributed datasets, visualizing multi-wavelength data. Compliance with existing or emerging VO standards, interconnection with other visualisation or analysis tools, ability to easily compare heterogeneous data are key topics allowing Aladin to be a powerful data exploration and integration tool as well as a science enabler.Aladin is developed and maintained by the Centre de données astronomiques de Strasbourg (CDS) and released under the GNU GPL v3.
+
+
+== See also ==
+
+Centre national de la recherche scientifique
+Observatory of Strasbourg
+SKY-MAP.ORG
+Stellarium
+
+
+== References ==
+
+
+== External links ==
+The Aladin Sky Atlas home page
+F. Bonnarel;  et al. (2000). "The ALADIN interactive sky atlas. A reference tool for identification of astronomical sources". Astronomy & Astrophysics. 143: 33–40. arXiv:astro-ph/0002109. Bibcode:2000A&AS..143...33B. doi:10.1051/aas:2000331.

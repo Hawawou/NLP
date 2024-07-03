@@ -1,0 +1,63 @@
+Metakaolin is the anhydrous calcined form of the clay mineral kaolinite. Minerals that are rich in kaolinite are known as china clay or kaolin, traditionally used in the manufacture of porcelain. The particle size of metakaolin is smaller than cement particles, but not as fine as silica fume.
+
+
+== Kaolinite sources ==
+The quality and reactivity of metakaolin is strongly dependent of the characteristics of the raw material used. Metakaolin can be produced from a variety of primary and secondary sources containing kaolinite:
+
+High purity kaolin deposits
+Kaolinite deposits or tropical soils of lower purity
+Paper sludge waste (if containing kaolinite)
+Oil sand tailings (if containing kaolinite)
+
+
+== Forming metakaolin ==
+The T-O clay mineral kaolinite does not contain interlayer cations or interlayer water. The temperature of dehydroxylation depends on the structural layer stacking order. Disordered kaolinite dehydroxylates between 530 and 570 °C, ordered kaolinite between 570 and 630 °C. Dehydroxylated disordered kaolinite shows higher pozzolanic activity than ordered. The dehydroxylation of kaolin to metakaolin is an endothermic process due to the large amount of energy required to remove the chemically bonded hydroxyl ions. Above the temperature range of dehydroxylation, kaolinite transforms into metakaolin, a complex amorphous structure which retains some long-range order due to layer stacking. Much of the aluminum of the octahedral layer becomes tetrahedrally and pentahedrally coordinated.
+In order to produce a pozzolan (supplementary cementitious material) nearly complete dehydroxylation must be reached without overheating, i.e., thoroughly roasted but not burnt. This produces an amorphous, highly pozzolanic state, whereas overheating can cause sintering, to form a dead burnt, nonreactive refractory, containing mullite and a defect Al-Si spinel. Reported optimum activation temperatures vary between 550 and 850 °C for varying durations, however the range 650-750 °C is most commonly quoted. 
+In comparison with other clay minerals kaolinite shows a broad temperature interval between dehydroxylation and recrystallization, much favoring the formation of metakaolin and the use of thermally activated kaolin clays as pozzolans. Also, because the octahedral layer is directly exposed to the interlayer (in comparison to for instance T-O-T clay minerals such as smectites), structural disorder is attained more easily upon heating.
+
+
+== High-reactivity metakaolin ==
+High-reactivity metakaolin (HRM) is a highly processed reactive aluminosilicate pozzolan, a finely-divided material that reacts with slaked lime at ordinary temperature and in the presence of moisture to form a strong slow-hardening cement. It is formed by calcining purified kaolinite, generally between 650–700 °C in an externally fired rotary kiln. It is also reported that HRM is responsible for acceleration in the hydration of ordinary portland cement (OPC), and its major impact is seen within 24 hours. It also reduces the deterioration of concrete by Alkali Silica Reaction (ASR), particularly useful when using recycled crushed glass or glass fines as aggregate. The amount of slaked lime that can be bound by metakaolin is measured by the modified Chapelle test.
+
+
+== Adsorption properties ==
+The adsorption surface properties of the metakaolins can be accomplished by inverse gas chromatography analysis.
+
+
+== Concrete application ==
+Considered to have twice the reactivity of most other pozzolans, metakaolin is a valuable admixture for concrete/cement applications. Replacing portland cement with 8–20% (by weight) metakaolin produces a concrete mix that exhibits favorable engineering properties, including: the filler effect, the acceleration of OPC hydration, and the pozzolanic reaction. The filler effect is immediate, while the effect of pozzolanic reaction occurs between 3 and 14 days.
+
+
+== Advantages ==
+Increased compressive and flexural strengths
+Reduced permeability (including chloride permeability)
+Reduced potential for efflorescence, which occurs when calcium is transported by water to the surface where it combines with carbon dioxide from the atmosphere to make calcium carbonate, which precipitates on the surface as a white residue.
+Increased resistance to chemical attack
+Increased durability
+Reduced effects of alkali-silica reactivity (ASR)
+Enhanced workability and finishing of concrete
+Reduced shrinkage, due to "particle packing" making concrete denser
+Improved color by lightening the color of concrete making it possible to tint lighter integral color.
+
+
+== Uses ==
+High performance, high strength, and lightweight concrete
+Precast and poured-mold concrete
+Fibercement and ferrocement products
+Glass fiber reinforced concrete
+Countertops, art sculptures (see for example the free-standing sculptures of Albert Vrana)
+Mortar and stucco
+
+
+== See also ==
+Concrete
+Engineered Cementitious Composite
+Fly ash
+Kaolinite
+Portland cement
+Pozzolan
+Rice husk ash (also very rich in SiO2)
+Silica fume
+
+
+== References ==

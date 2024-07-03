@@ -1,0 +1,26 @@
+Anti-shock body is the name given by Richard T. Whitcomb to a pod positioned on the upper surface of a wing. Its purpose is to reduce wave drag while travelling at transonic speeds (Mach 0.8–1.0), which includes the typical cruising range of conventional jet airliners. 'The Cambridge Aerospace Dictionary' defines shock body (also known as Whitcomb body, Küchemann carrot or speed bump) as a streamlined volume added to improve area rule distribution.The anti-shock, or shock body, was one of a number of ways of implementing what was then the recently developed area rule. Another was fuselage shaping.
+
+
+== Theory ==
+The theory behind the anti-shock body was independently developed during the early 1950s by two aerodynamists, Richard Whitcomb at NASA and Dietrich Küchemann at the British Royal Aircraft Establishment. The anti-shock body is closely associated with the area rule, a recent innovation of the era to minimise wave drag by having a cross-sectional area which changes smoothly along the length of the aircraft. The extension beyond the trailing edge was considered secondary to the body on the wing surface which slowed the supersonic flow to give a weaker shock and acted as a fence to prevent outward flow. The extension was only long enough to prevent flow separation.
+Whitcomb stated that the anti-shock body was no longer required on the top surface of a wing when the supercritical airfoil was introduced because they both decreased the strength of, or eliminated, the shock and its attendant drag.
+
+
+== Applications ==
+Aircraft that have used anti-shock bodies are the Convair 990 airliner and Fokker 100 aircraft.So-called "Küchemann carrots" were added to the Handley Page Victor to provide volume for carrying chaff. They did not improve the performance of the aircraft and when they became redundant for their intended purpose they were left in place to save the cost of removing them.
+
+		
+
+
+== Alternatives ==
+Boeing 747 have wing twist at the wing section outside the outboard engines to offset shockwaves on the upper surface, this is introduced by Joe Sutter.
+Modern jet aircraft use supercritical airfoils to minimize drag from shockwaves on the upper surface.
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Bibliography ===

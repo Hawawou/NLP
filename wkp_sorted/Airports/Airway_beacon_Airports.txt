@@ -1,0 +1,47 @@
+An airway beacon (US) or aerial lighthouse (UK and Europe) was a rotating light assembly mounted atop a tower.  These were once used extensively in the United States for visual navigation by airplane pilots along a specified airway corridor. In Europe, they were used to guide aircraft with lighted beacons at night.
+
+
+== UK and Europe ==
+
+
+=== United Kingdom ===
+
+A network of aerial lighthouses was established in the United Kingdom and Europe during the 1920s and 1930s. Use of the lighthouses has declined with the advent of radio navigation aids such as NDB (non-directional beacon), VOR (VHF omnidirectional ranging) and DME (distance measuring equipment). The last operational aerial lighthouse in the United Kingdom is on top of the cupola over the RAF College main hall at RAF Cranwell.
+
+
+=== Netherlands ===
+
+In the Netherlands, gas holders were painted with an arrow pointing north and two letters identifying their location.
+
+
+== United States ==
+
+Approximately 1,500 airway beacons were constructed to guide pilots from city to city, covering 18,000 miles (29,000 km).  Today, most of the beacons have been removed, but the State of Montana continues to maintain several as navigation aids in mountainous terrain. One beacon is preserved for historical purposes in Saint Paul, Minnesota at the Indian Mounds Park on a bluff overlooking the Mississippi River. A rotating airway beacon has been in continuous operation at the summit of Rocky Butte in Portland, Oregon since 1929, though it was decommissioned during the 1960s. Recently, the beacon at Grants, New Mexico was restored for historic preservation, using original items found at other nearby sites.A large concrete slab, in the shape of an arrow, was located near the base of each beacon.  Many of these arrows remain today, some of which are visible from satellite pictures, even in urban settings.
+
+
+=== Light characteristics ===
+An airway beacon has two distinct light characteristics: A revolving narrow white light beam about 5 degrees wide in azimuth and a set of fixed colored course lights of about 15 degrees width.
+
+
+==== White rotating beacon ====
+The rotating beacon  24 inch (610 mm) parabolic mirror and a 110-volt, 1 kilowatt lamp. spinning at 6 rpm, creating a quick one-tenth second flash every ten seconds.  In clear weather they could be seen for 40 miles (64 km).  Montana took steps to modernize their beacons, encasing newer light systems in clear domes.
+
+
+==== Red or green course lights ====
+Just below the white beacon, a set of red or green course lights point along each airway route.  Red lights denote an airway beacon between landing fields while green denotes a beacon adjacent or upon a landing field.  These course lights flash a Morse code letter identifying the beacon to the pilot.  Each beacon is identified with a sequential number along the airway, and flash the red or green course lights with the Morse code ID of one of 10 letters: W, U, V, H, R, K, D, B, G or M. The letters represent the digits of 1 through 10 (W = 1, ..., M = 10). The course lights turn on for 0.5 second for a dot, 1.5 second for a dash with a 0.5 second between each dot or dash.  A pause of 1.5 seconds separates each letter.To help remember the letters and their sequence number, pilots memorized the following: "When Undertaking Very Hard Routes, Keep Direction By Good Methods." The beacons are depicted on navigation charts along with their number and Morse code pattern. For example, beacon number 15 would have a code digit of 5 (the units digit), hence the letter R, and Morse code: "dit dah dit" (·−·).
+
+
+=== History ===
+ 
+Airway beacons in the US were constructed by the Post Office and the Department of Commerce between 1923 and 1933. The Low Frequency Radio Range system began to replace this visual system in 1929. The last visual airway beacon was supposedly shut down in 1973, but a few airway beacons are still operating in Portland, Oregon and Western Montana. Those in Montana are charted on the Great Falls sectional chart.   They are maintained by the Montana Department of Transportation Aeronautics Division.
+
+
+== See also ==
+Lighted airway
+
+
+== References ==
+
+
+== External links ==
+"Arrows Across America; Transcontinental Air Mail Routes"

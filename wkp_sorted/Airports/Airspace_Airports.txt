@@ -1,0 +1,166 @@
+Airspace is the portion of the atmosphere controlled by a country above its territory, including its territorial waters or, more generally, any specific three-dimensional portion of the atmosphere. It is not the same as aerospace, which is the general term for Earth's atmosphere and the outer space in its vicinity.
+Within the United States:
+
+Controlled airspace exists where it is deemed necessary that air traffic control has some form of positive executive control over aircraft flying in that airspace (however, air traffic control does not necessarily control traffic operating under visual flight rules (VFR) within this airspace).Airspace may be further subdivided into a variety of areas and zones, including those where there are either restrictions on flying activities or complete prohibition of flying activities.
+
+
+== Horizontal boundary ==
+
+By international law, a state "has complete and exclusive sovereignty over the airspace above its territory", which corresponds with the maritime definition of territorial waters as being 12 nautical miles (22.2 km) out from a nation's coastline. Airspace not within any country's territorial limit is considered international, analogous to the "high seas" in maritime law.
+However, a country may, by international agreement, assume responsibility for controlling parts of international airspace, such as those over the oceans. Such airspace in respect of which a country is responsible under the International Civil Aviation Organization (ICAO) for operational control is called a Flight Information Region (FIR). For a coastal state, the FIR consists of the airspace above its land and sea territory plus any international airspace in respect of which ICAO has assigned responsibility to that state.For instance, the United States provides air traffic control services over a large part of the Pacific Ocean, even though the airspace is international.
+
+
+== Vertical boundary ==
+There is no international agreement on the vertical extent of sovereign airspace, with suggestions ranging from about 30 km (19 mi)—the extent of the highest aircraft and balloons—to about 160 km (100 mi)—thought to be the lowest extent of short-term stable orbits, disproved by the satellite Lixing-1 having a stable orbit with an apogee of 140 km (87 mi) for three days. The Fédération Aéronautique Internationale has established the Kármán line—at an altitude of 100 km (62 mi)—as the boundary between the Earth's atmosphere and outer space, while the United States considers anyone who has flown above 80 kilometres (50 mi) to be an astronaut. Indeed, descending Space Shuttles flew closer than 80 km (50 mi) over other nations, such as Canada, without requesting permission first. Nonetheless, both the Kármán line and the U.S. definition are merely working benchmarks, without any real legal authority over matters of national sovereignty.
+The boundary between public airspace and private air rights is defined by national or local law.
+
+
+== Controlled airspace ==
+
+Controlled airspace is a generic term that covers the different classifications of airspace and defined dimensions within which air traffic control (ATC) service is provided in accordance with the airspace classification. Controlled airspace consists of:
+Class A
+Class B
+Class C
+Class D
+Class E
+
+
+=== Class A airspace ===
+Class A airspace is generally the airspace from 18,000 feet (3.41 miles) mean sea level (MSL) up to and including flight level (FL) 600, including the airspace overlying the waters within 12 nautical miles (NM) of the coast of the 48 contiguous states and Alaska. Unless otherwise authorized, all operation in Class A airspace is conducted under instrument flight rules (IFR).
+
+
+=== Class B airspace ===
+Class B airspace is generally airspace from the surface to 10,000 feet MSL surrounding the nation's busiest airports in terms of airport operations or passenger enplanements. The configuration of each Class B airspace area is individually tailored, consists of a surface area and two or more layers (some Class B airspace areas resemble upside-down wedding cakes), and is designed to contain all published instrument procedures once an aircraft enters the airspace. An ATC clearance is required for all aircraft to operate in the area, and all aircraft that are so cleared receive separation services within the airspace.
+
+
+=== Class C airspace ===
+Class C airspace is generally airspace from the surface to 4,000 feet above the airport elevation (charted in MSL) surrounding those airports that have an operational control tower, are serviced by a radar approach control, and have a certain number of IFR operations or passenger enplanements. Although the configuration of each Class C area is individually tailored, the airspace usually consists of a surface area with a five NM radius, an outer circle with a ten NM radius that extends from 1,200 feet to 4,000 feet above the airport elevation, and an outer area. Each aircraft must establish two-way radio communications with the ATC facility providing air traffic services prior to entering the airspace and thereafter maintain those communications while within the airspace.
+
+
+=== Class D airspace ===
+Class D airspace is generally airspace from the surface to 2,500 feet above the airport elevation (charted in MSL) surrounding those airports that have an operational control tower. The configuration of each Class D airspace area is individually tailored and when instrument procedures are published, the airspace is normally designed to contain the procedures. Arrival extensions for instrument approach procedures (IAPs) may be Class D or Class E airspace. Unless otherwise authorized, each aircraft must establish two-way radio communications with the ATC facility providing air traffic services prior to entering the airspace and thereafter maintain those communications while in the airspace.
+
+
+=== Class E airspace ===
+If the airspace is not Class A, B, C, or D, and is controlled airspace, then it is Class E airspace. Class E airspace extends upward from either the surface or a designated altitude to the overlying or adjacent controlled airspace. When designated as a surface area, the airspace is configured to contain all instrument procedures. Also in this class are federal airways, airspace beginning at either 700 or 1,200 feet above ground level (AGL) used to transition to and from the terminal or en route environment, and en route domestic and offshore airspace areas designated below 18,000 feet MSL. Unless designated at a lower altitude, Class E airspace begins at 14,500 MSL over the United States, including that airspace overlying the waters within 12 NM of the coast of the 48 contiguous states and Alaska, up to but not including 18,000 feet MSL, and the airspace above FL 600. Class E has control services available but VFR pilots are not required to make any contact with ATC unlike other controlled airspace.
+
+
+== Uncontrolled airspace ==
+
+
+=== Class G airspace ===
+Uncontrolled airspace or Class G airspace is the portion of the airspace that has not been designated as Class A, B, C, D, or E. It is therefore designated uncontrolled airspace by the ATC. Class G airspace extends from the surface to the base of the overlying Class E airspace.  Although ATC has no authority or responsibility to control air traffic, pilots should remember there are visual flight rules (VFR) minimums which apply to Class G airspace, and that flight over private property should not be presumed valid.      
+
+
+== Special use airspace ==
+
+Special use airspace or special area of operation (SAO) is the designation for airspace in which certain activities must be confined, or where limitations may be imposed on aircraft operations that are not part of those activities. Certain special use airspace areas can create limitations on the mixed use of airspace. The special use airspace depicted on instrument charts includes the area name or number, effective altitude, time and weather conditions of operation, the controlling agency, and the chart panel location. On National Aeronautical Charting Group (NACG) en route charts, this information is available on one of the end panels. Special use airspace usually consists of:
+
+Prohibited areas
+Restricted areas
+Warning areas
+Military operation areas (MOAs)
+Alert areas
+Controlled firing areas (CFAs)
+
+
+=== Prohibited areas ===
+
+Prohibited areas contain airspace of defined dimensions within which the flight of aircraft is prohibited. Such areas are established for security or other reasons associated with the national welfare. Prohibited areas in the United States are published in the Federal Register and are depicted on aeronautical charts. The area is charted as a "P" followed by a number (e.g., P-49). Examples of prohibited areas include Camp David and the National Mall in Washington, D.C., where the White House and the Congressional buildings are located.
+
+
+=== Restricted areas ===
+
+Restricted areas are areas where operations are hazardous to nonparticipating aircraft and contain airspace within which the flight of aircraft, while not wholly prohibited, is subject to restrictions. Activities within these areas must be confined because of their nature, or limitations may be imposed upon aircraft operations that are not a part of those activities, or both. Restricted areas denote the existence of unusual, often invisible, hazards to aircraft (e.g., artillery firing, aerial gunnery, or guided missiles). IFR flights may be authorized to transit the airspace and are routed accordingly. Penetration of restricted areas without authorization from the using or controlling agency may be extremely hazardous to the aircraft and its occupants. ATC facilities apply the following procedures when aircraft are operating on an IFR clearance (including those cleared by ATC to maintain VFR on top) via a route which lies within joint-use restricted airspace:
+
+If the restricted area is not active and has been released to the Federal Aviation Administration (FAA), the ATC facility allows the aircraft to operate in the restricted airspace without issuing specific clearance for it to do so.
+If the restricted area is active and has not been released to the FAA, the ATC facility issues a clearance which ensures the aircraft avoids the restricted airspace.Restricted areas are charted with an "R" followed by a number (e.g., R-4401) and are depicted on the en route chart appropriate for use at the altitude or FL being flown. Restricted area information can be obtained on the back of the chart.
+
+
+=== Warning areas ===
+Warning areas are similar in nature to restricted areas; however, the United States government does not have sole jurisdiction over the airspace. A warning area is airspace of defined dimensions, extending from 12 NM outward from the coast of the United States, containing activity that may be hazardous to nonparticipating aircraft. The purpose of such areas is to warn nonparticipating pilots of the potential danger. A warning area may be located over domestic or international waters or both. The airspace is designated with a "W" followed by a number (e.g., W-237).
+
+
+=== Military operation areas (MOAs) ===
+
+MOAs consist of airspace with defined vertical and lateral limits established for the purpose of separating certain military training activities from IFR traffic. Whenever an MOA is being used, nonparticipating IFR traffic may be cleared through an MOA if IFR separation can be provided by ATC. Otherwise, ATC reroutes or restricts nonparticipating IFR traffic. MOAs are depicted on sectional, VFR terminal area, and en route low altitude charts and are not numbered (e.g., "Camden Ridge MOA"). [Figure 14-5] However, the MOA is also further defined on the back of the sectional charts with times of operation, altitudes affected, and the controlling agency.
+
+
+=== Alert areas ===
+Alert areas are depicted on aeronautical charts with an "A" followed by a number (e.g., A-211) to inform nonparticipating pilots of areas that may contain a high volume of pilot training or an unusual type of aerial activity. Pilots should exercise caution in alert areas. All activity within an alert area shall be conducted in accordance with regulations, without waiver, and pilots of participating aircraft, as well as pilots transiting the area, shall be equally responsible for collision avoidance.
+
+
+=== Controlled firing areas (CFAs) ===
+CFAs contain activities, which, if not conducted in a controlled environment, could be hazardous to nonparticipating aircraft. The difference between CFAs and other special use airspace is that activities must be suspended when a spotter aircraft, radar, or ground lookout position indicates an aircraft might be approaching the area. There is no need to chart CFAs since they do not cause a nonparticipating aircraft to change its flightpath.
+
+
+== Other airspace areas ==
+"Other airspace areas" is a general term referring to the majority of the remaining airspace. It includes:
+
+Local airport advisory
+Military training route (MTR)
+Temporary flight restriction (TFR)
+Parachute jump aircraft operations
+Published VFR routes
+Terminal radar service area (TRSA)
+National security area (NSA)
+
+
+=== Local airport advisory (LAA) ===
+
+A service provided by facilities, which are located on the landing airport, have a discrete ground-to-air communication frequency or the tower frequency when the tower is closed, automated weather reporting with voice broadcasting, and a continuous ASOS/AWOS data display, other continuous direct reading instruments, or manual observations available to the specialist.
+
+
+=== Military training routes (MTRs) ===
+
+MTRs are routes used by military aircraft to maintain proficiency in tactical flying. These routes are usually established below 10,000 feet MSL for operations at speeds in excess of 250 knots. Some route segments may be defined at higher altitudes for purposes of route continuity. Routes are identified as IFR (IR), and VFR (VR), followed by a number. [Figure 14-7] MTRs with no segment above 1,500 feet AGL are identified by four number characters (e.g., IR1206, VR1207). MTRs that include one or more segments above 1,500 feet AGL are identified by three number characters (e.g., IR206, VR207). IFR low altitude en route charts depict all IR routes and all VR routes that accommodate operations above 1,500 feet AGL. IR routes are conducted in accordance with IFR regardless of weather conditions. VFR sectional charts depict military training activities such as IR, VR, MOA, restricted area, warning area, and alert area information.
+
+
+=== Temporary flight restrictions (TFR) ===
+
+A flight data center (FDC) Notice to Airmen (NOTAM) is issued to designate a TFR. The NOTAM begins with the phrase "FLIGHT RESTRICTIONS" followed by the location of the temporary restriction, effective time period, area defined in statute miles, and altitudes affected. The NOTAM also contains the FAA coordination facility and telephone number, the reason for the restriction, and any other information deemed appropriate. The pilot should check the NOTAMs as part of flight planning.Some of the purposes for establishing a TFR are:
+
+Protect persons and property in the air or on the surface from an existing or imminent hazard.
+Provide a safe environment for the operation of disaster relief aircraft.
+Prevent an unsafe congestion of sightseeing aircraft above an incident or event, which may generate a high degree of public interest.
+Protect declared national disasters for humanitarian reasons in the State of Hawaii.
+Protect the President, Vice President, or other public figures.
+Provide a safe environment for space agency operations.Since the events of September 11, 2001, the use of TFRs has become much more common. There have been a number of incidents of aircraft incursions into TFRs, which have resulted in pilots undergoing security investigations and certificate suspensions. It is a pilot's responsibility to be aware of TFRs in their proposed area of flight. One way to check is to visit the FAA website([1]), and verify that there is not a TFR in the area.
+
+
+=== Parachute jump aircraft operations ===
+Parachute jump aircraft operations are published in the Airport/Facility Directory (A/FD). Sites that are used frequently are depicted on sectional charts.
+
+
+=== Published VFR routes ===
+Published VFR routes are for transitioning around, under, or through some complex airspace. Terms such as VFR flyway, VFR corridor, Class B airspace VFR transition route, and terminal area VFR route have been applied to such routes. These routes are generally found on VFR terminal area planning charts.
+
+
+=== Terminal radar service areas (TRSAs) ===
+
+TRSAs are areas where participating pilots can receive additional radar services. The purpose of the service is to provide separation between all IFR operations and participating VFR aircraft.The primary airport(s) within the TRSA become(s) Class D airspace. The remaining portion of the TRSA overlies other controlled airspace, which is normally Class E airspace beginning at 700 or 1,200 feet and established to transition to/from the en route/terminal environment. TRSAs are depicted on VFR sectional charts and terminal area charts with a solid black line and altitudes for each segment. The Class D portion is charted with a blue segmented line. Participation in TRSA services is voluntary; however, pilots operating under VFR are encouraged to contact the radar approach control and take advantage of TRSA service.
+
+
+=== National Security Areas (NSAs) ===
+
+NSAs consist of airspace of defined vertical and lateral dimensions established at locations where there is a requirement for increased security and safety of ground facilities. Flight in NSAs may be temporarily prohibited by regulation under the provisions of Title 14 of the Code of Federal Regulations (14 CFR) part 99, and prohibitions are disseminated via NOTAM. Pilots are requested to voluntarily avoid flying through these depicted areas.
+
+
+== See also ==
+Air sovereignty
+Airspace class
+Flyover rights
+United Nations Convention on the Law of the Sea
+
+
+== References ==
+
+
+== External links ==
+open flightmaps
+U.S. airspace, as described in the Aeronautical Information Manual
+AirSpace Technology
+Worldwide Soaring Turnpoint Exchange: Airspace (publicly contributed data)
+Airspace data in Google Earth Format (KML)
+Graham Warwick (18 September 2018). "Airbus Proposes Blueprint For Integrating Autonomous Aviation". Aviation Week & Space Technology.
+flight schedule

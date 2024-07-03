@@ -1,0 +1,7 @@
+The surface area that interacts with the working fluid or gas.
+In maritime use, the wetted area is the area of the hull (watercraft) which is immersed in water. This has a direct relationship on the overall hydrodynamic drag of the ship or submarine.
+In aeronautics, the wetted area is the area which is in contact with the external airflow. This has a direct relationship on the overall aerodynamic drag of the aircraft. See also Wetted aspect ratio.
+In motorsport, such as Formula One, the term wetted surfaces is used to refer to the bodywork, wings and the radiator, which are in direct contact with the airflow, similarly to the term's use in aeronautics.
+
+
+== References ==

@@ -1,0 +1,11 @@
+In aeronautics, downwash is the change in direction of air deflected by the aerodynamic action of an airfoil, wing or helicopter rotor blade in motion, as part of the process of producing lift. In helicopter aerodynamics discussions, it may be referred to as induced flow.Lift on an airfoil is an example of the application of Newton's third law of motion—the force required to create the downwash is equal in magnitude and opposite in direction to the lift force on the airfoil. Lift on an airfoil is also an example of the Kutta-Joukowski theorem. The Kutta condition explains the existence of downwash at the trailing edge of the wing.
+
+
+== See also ==
+Brownout
+Slipstream
+Wake turbulence
+Wingtip vortices
+
+
+== References ==

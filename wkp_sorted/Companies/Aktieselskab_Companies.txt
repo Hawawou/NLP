@@ -1,0 +1,43 @@
+Aktieselskab (pronounced [ˈɑkɕəselˌskɛˀp]; abbr.: A/S, or a/s, Unicode U+214D ⅍ AKTIESELSKAB; literally meaning: "stock company") is the Danish name for a stock-based corporation. An aktieselskab may be either publicly traded or private.
+
+
+== Liability ==
+The shareholders of an aktieselskab are not liable for the debts of the company. This can be used to protect the assets of the company against creditors by forming a group of companies. If an A/S is owned by a holding company (typically another A/S), the profit from the production company can be transferred to the holding company. Since there is no liability for the owners of an A/S, creditors from the production company will not be able to claim the profit in case of bankruptcy. Professional creditors, such as banks, protect themselves from this by demanding that the holding company guarantees the debts of the production company.
+
+
+== Formation of an aktieselskab ==
+The formation of an aktieselskab requires a number of steps, including the following:
+Notification concerning the formation to the Danish Business Authorities.
+Registration of the company.
+Resolution to form the company at the first general meeting.
+Subscription for shares and payment of the share capital. The share capital must be greater than 400,000 DKK.
+The signing of a memorandum of association which must contain a draft of the articles of association of the company.An aktieselskab can only acquire rights or incur obligations as a company when it has been registered at the Danish Commerce and Companies Agency.
+
+
+== Share capital ==
+The share capital registered at the Danish Commerce and Companies Agency must be at least 500,000 DKK. The capital can come from contributions of cash or other assets.If half of the capital is lost the board of directors must convene a general meeting within six months.
+
+
+== Board of directors ==
+An aktieselskab must have a board of directors consisting of at least three members. Members of the board can be elected for a period of up to four years depending on the articles of association.The board members are usually elected at the general meeting. The articles of association may confer upon public authorities or any third party the right to appoint one or more members of the board of directors. In companies with an average workforce of over 35 employees during the last three years, the employees are entitled to elect among themselves a number of members of the board of directors equal to half the members of the board of directors elected by the shareholders or appointed by third parties.
+
+
+== See also ==
+Aksjeselskap (the corresponding concept in Norway)
+Aktiebolag (the corresponding concept in Sweden)
+Aktiengesellschaft (the corresponding term in Germany)
+Akciová společnost (a.s.) (the corresponding concept in the Czech Republic)
+Anpartsselskab (another Danish type of corporation equivalent to a limited liability company)
+Limited liability company
+Naamloze Vennootschap (the corresponding concept in the Netherlands and Belgium)
+Osakeyhtiö (the corresponding concept in Finland)
+Public limited company (the corresponding concept in the UK and in Ireland)
+S. A. (the corresponding concept in France, Spain and other Romance countries)
+АД - Акционерно дружество, (AD - the corresponding concept in Bulgaria)
+
+
+== References ==
+
+
+== External links ==
+The Danish Public Companies Act - An English translation of the Danish aktieselskabslov.
